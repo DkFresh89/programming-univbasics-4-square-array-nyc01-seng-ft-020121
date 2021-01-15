@@ -5,5 +5,6 @@ def square_array(array)
  while array.length.times == square { |square|
   new_array.push (array[square] ** square)
   }
+end 
   new_array
 end
